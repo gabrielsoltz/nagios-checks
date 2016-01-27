@@ -1,6 +1,7 @@
 #################################################################################
 # NAME: 	check_windows_updates.ps1
-# 
+# TESTED: powershell 2 & 4
+#
 # I forked this script at version 1.42 from:
 # ORIGINAL SCRIPT: https://exchange.nagios.org/directory/Plugins/Operating-Systems/Windows-NRPE/Check-Windows-Updates-using-Powershell/details
 # ORIGINAL AUTHOR: Christian Kaufmann, ck@tupel7.de
